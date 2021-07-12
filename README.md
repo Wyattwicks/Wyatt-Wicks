@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Docker, Python**
 
-- <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> Connect on LinkedIn [https://www.linkedin.com/in/wyattwicks/](https://www.linkedin.com/in/wyattwicks/)
+- <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> Connect on <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> [https://www.linkedin.com/in/wyattwicks/](https://www.linkedin.com/in/wyattwicks/)
+
 
 - 💬 Ask me about **Ruby/Rails**
 
