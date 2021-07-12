@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wyatt</h1>
+<h1 align="center">Hi :sunglasses: :wave:, I'm Wyatt</h1>
 <h3 align="center">An Empathetic Web Developer Focusing on Fullstack Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wyattwicks&label=Profile%20views&color=0e75b6&style=flat" alt="wyattwicks" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker, Python**
 
-- Connect on LinkedIn [https://www.linkedin.com/in/wyattwicks/](https://www.linkedin.com/in/wyattwicks/)
+- <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> Connect on LinkedIn [https://www.linkedin.com/in/wyattwicks/](https://www.linkedin.com/in/wyattwicks/)
 
 - 💬 Ask me about **Ruby/Rails**
 
